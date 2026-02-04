@@ -1,0 +1,5 @@
+__pycache__/
+.DS_Store
+.streamlit/secrets.toml
+Detectors on board_0402.xlsx
+detectors.html

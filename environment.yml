@@ -1,0 +1,10 @@
+name: streamlit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - streamlit
+  - pandas
+  - plotly
+  - openpyxl
+  - requests
